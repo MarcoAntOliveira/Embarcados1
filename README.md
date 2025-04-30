@@ -4,6 +4,7 @@ Este projeto implementa um **menu interativo com display LCD 16x2** e **controle
 
 ---
 ![diagrama](image.png)
+[Projeto TinkerCad](https://www.tinkercad.com/things/fPWk3sOGpn4-trabalho1)
 ## ⚙️ Materiais Utilizados
 
 | Quantidade | Componente              |
